@@ -1,6 +1,11 @@
 
 # Natural Language Processing Project on Detecting Negative Comments
 
+## Authors:
+- Sai Krishna Sangeetha
+- Venkata Sai Kumar Ganesula
+- College of Engineering and Computer Science, University of Central Florida, Orlando, Florida 32816
+
 ## Overview:
 This project aims to utilize Natural Language Processing (NLP) techniques to identify negative comments posted on social media platforms. By highlighting these comments, the objective is to promote positive content and foster a more constructive online community.
 
@@ -31,8 +36,12 @@ This project aims to utilize Natural Language Processing (NLP) techniques to ide
 - **Key Features**: Similar to "hypothesis_1.ipynb".
 
 ### 5. **proposed_model.ipynb**:
-- **Purpose**: Likely the final model or a refined version based on findings from previous hypotheses.
-- **Key Features**: Similar structure as the hypothesis notebooks but might contain further optimizations or model refinements.
+- **Purpose**: This notebook presents the culmination of insights gathered from previous experiments and introduces the finalized model for detecting negative comments.
+- **Key Features**:
+  - Utilizes advanced NLP techniques, hinting at a possible blend of traditional and transformer-based approaches.
+  - Streamlined preprocessing and data handling to ensure optimal model input.
+  - Incorporates refined hyperparameters and model configurations based on prior results from hypothesis testing.
+  - Includes model evaluation metrics, visualizations, and comparisons to baseline models, showcasing the improvements achieved with the proposed approach.
 
 ## Report:
 The accompanying report provides detailed insights into the objectives, methodologies, and findings of the project. Key highlights:
