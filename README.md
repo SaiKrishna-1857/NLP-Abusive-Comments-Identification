@@ -1,5 +1,5 @@
 
-# Natural Language Processing Project on Detecting Negative Comments
+# Detecting Abusive Comments in Multiple Languages: A Multilingual Approach
 
 ## Authors:
 - Sai Krishna Sangeetha
